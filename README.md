@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @itsbrandonowens
-- 👀 I’m interested in Newcastle United, PC Gaming and Coding. 
-- 🌱 I’m currently learning ReactJS, working on my Front End skills and Java w/ Spring Boot working on my Back End skills.
+- 🖥️ I am a full-stack developer using ReactJS as the front-end and Java/Spring Boot as the back-end.
+- 🎲 I am the creator of the Last Orders drinking game ( lastordersgame.com )
+- 👀 I’m interested in Newcastle United, PC Gaming and Coding.
 
 <!---
 itsbrandonowens/itsbrandonowens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
