@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">A passionate developer from Newcastle Upon Tyne</h3>
+<h3 align="center">A developer from Newcastle Upon Tyne</h3>
 
 - 🔭 I’m currently working on [Discord/Spotify Integration App](https://github.com/itsbrandonowens/discord_spotify_integration_app)
 
